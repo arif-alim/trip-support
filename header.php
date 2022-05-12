@@ -92,16 +92,42 @@
                 <div class="menu-mobile w-[100vw] mx-auto bg-white text-tiny font-medium z-30 float-left py-2 list-none text-left rounded shadow-xl hidden">
                   <div class="pt-2 pb-3 space-y-2">
                     <a href="<?php echo home_url() ?>/flights" class="<?php if (is_page('flights')) echo 'text-rose-700 border-rose-500 font-bold'; ?> bg-pblue-50 text-pblue-900 block pl-3 pr-4 py-2 border-l-4 text-tiny font-medium sm:pl-5 sm:pr-6">Flights</a>
-                      <a href="<?php echo home_url() ?>/vacations" class="<?php if (is_page('vacations')) echo 'text-rose-700 border-rose-500 font-bold'; ?> bg-pblue-50 text-pblue-900 block pl-3 pr-4 py-2 border-l-4 text-tiny font-medium sm:pl-5 sm:pr-6">Vacations</a>
-                      <a href="<?php echo home_url() ?>/hotels" class="<?php if (is_page('hotels')) echo 'text-rose-700 border-rose-500 font-bold'; ?> bg-pblue-50 text-pblue-900 block pl-3 pr-4 py-2 border-l-4 text-tiny font-medium sm:pl-5 sm:pr-6">Hotels</a>
-
+                    <a href="<?php echo home_url() ?>/vacations" class="<?php if (is_page('vacations')) echo 'text-rose-700 border-rose-500 font-bold'; ?> bg-pblue-50 text-pblue-900 block pl-3 pr-4 py-2 border-l-4 text-tiny font-medium sm:pl-5 sm:pr-6">Vacations</a>
+                    <a href="<?php echo home_url() ?>/hotels" class="<?php if (is_page('hotels')) echo 'text-rose-700 border-rose-500 font-bold'; ?> bg-pblue-50 text-pblue-900 block pl-3 pr-4 py-2 border-l-4 text-tiny font-medium sm:pl-5 sm:pr-6">Hotels</a>
                   </div>
+                  <div class="pt-2 pb-3 space-y-2 border-t border-l-0 border-r-0 border-b-0 border-gray-100 px-4">
+                    <div class="px-3 py-2 text-base font-bold text-center">
+                      Access discounts and special offers!
+                    </div>
+                    <div class="space-x-2 rounded sm:bg-transparent">
+                      <a href="javascript:void(0)" class="inline-flex justify-center items-center space-x-3 border font-medium tracking-wide focus:outline-none px-3 py-2 text-sm rounded-full  bg-pblue-800 text-white hover:text-white hover:bg-pblue-900 focus:ring focus:ring-pblue-500 focus:ring-opacity-50  w-full ">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                          <path stroke-linecap="round" stroke-linejoin="round" d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                        </svg>
+                        <span>Register</span>
+                      </a>
+                    </div>
+                    <!-- This example requires Tailwind CSS v2.0+ -->
+                    <div class="relative">
+                      <div class="absolute inset-0 flex items-center" aria-hidden="true">
+                        <div class="w-full border-t border-gray-300"></div>
+                      </div>
+                      <div class="relative flex justify-center">
+                        <span class="px-2 bg-white text-sm text-gray-500"> OR </span>
+                      </div>
+                    </div>
+
+                    <div class="space-x-2 rounded sm:bg-transparent text-center">
+                      <a href="#" class="font-bold text-pblue-900">Sign In</a> if you already have an account
+                    </div>
+                  </div>
+
                 </div>
               </div>
             </div>
 
             <div class="hidden lg:flex items-center gap-1 sm:gap-8 px-6">
-              <div class="flex-shrink-0 flex">
+              <div class="hidden flex-shrink-0 flex">
                 <?php
                 $languages = pll_the_languages(array(
                   'display_names_as' => 'name',

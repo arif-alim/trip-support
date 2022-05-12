@@ -1,5 +1,3 @@
-<?php include 'request-flight.php' ?>
-
 <div class="relative bg-white overflow-hidden">
   <div class="max-w-7xl mx-auto">
     <div class="relative pb-8 bg-white sm:pb-16 md:pb-20 lg:max-w-7xl lg:w-full lg:pb-12 xl:pb-12">
