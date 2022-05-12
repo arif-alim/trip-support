@@ -33,7 +33,7 @@
         </div>
       </div>
       <div class="group aspect-w-2 aspect-h-1 rounded-lg overflow-hidden sm:relative sm:aspect-none sm:h-full">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/inclusive/dominican-republic.jpg' ?>" alt="Wooden shelf with gray and olive drab green baseball caps, next to wooden clothes hanger with sweaters." class="object-center object-cover group-hover:opacity-75 sm:absolute sm:inset-0 sm:w-full sm:h-full">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/all-inclusive-resorts/dominican-republic.jpg" alt="Wooden shelf with gray and olive drab green baseball caps, next to wooden clothes hanger with sweaters." class="object-center object-cover group-hover:opacity-75 sm:absolute sm:inset-0 sm:w-full sm:h-full">
         <div aria-hidden="true" class="bg-gradient-to-b from-transparent to-black opacity-50 sm:absolute sm:inset-0"></div>
         <div class="p-6 flex items-end sm:absolute sm:inset-0">
           <div>
@@ -47,7 +47,7 @@
         </div>
       </div>
       <div class="group aspect-w-2 aspect-h-1 rounded-lg overflow-hidden sm:relative sm:aspect-none sm:h-full">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/luxury/europe.jpg' ?>" alt="Walnut desk organizer set with white modular trays, next to porcelain mug on wooden desk." class="object-center object-cover group-hover:opacity-75 sm:absolute sm:inset-0 sm:w-full sm:h-full">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/luxury-vacations/europe.jpg" alt="Walnut desk organizer set with white modular trays, next to porcelain mug on wooden desk." class="object-center object-cover group-hover:opacity-75 sm:absolute sm:inset-0 sm:w-full sm:h-full">
         <div aria-hidden="true" class="bg-gradient-to-b from-transparent to-black opacity-50 sm:absolute sm:inset-0"></div>
         <div class="p-6 flex items-end sm:absolute sm:inset-0">
           <div>
