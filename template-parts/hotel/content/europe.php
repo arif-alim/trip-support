@@ -2,7 +2,7 @@
   <section class="relative overflow-hidden">
     <div class="max-w-7xl prose">
       <div class="w-full">
-        <h1 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl mb-0"> 
+        <h1 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl mb-0">
           <span class="block xl:inline">Popular <?php the_title(); ?></span>
         </h1>
       </div>
@@ -18,57 +18,33 @@
           <div class="flex">
             <div class="sm:w-1/2 w-full">
               <div class="w-full h-[200px] p-1.5">
-                <img
-                  alt="gallery"
-                  class="block object-cover object-center w-full h-full rounded-lg"
-                  src="<?php echo THEME_IMAGE_HOTELDEALS . '/europe/europe-4.jpg' ?>"
-                />
+                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="https://trip-support.s3.amazonaws.com/images/hotels/pages/europe/europe-4.jpg" />
               </div>
             </div>
             <div class="hidden sm:block sm:w-1/2">
               <div class="w-full h-[200px] p-1.5">
-                <img
-                  alt="gallery"
-                  class="block object-cover object-center w-full h-full rounded-lg"
-                  src="<?php echo THEME_IMAGE_HOTELDEALS . '/europe/europe-5.jpg' ?>"
-                />
+                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="https://trip-support.s3.amazonaws.com/images/hotels/pages/europe/europe-5.jpg" />
               </div>
             </div>
           </div>
           <div class="w-full p-1.5 h-[300px]">
-            <img
-              alt="gallery"
-              class="block object-cover object-center w-full h-full rounded-lg"
-              src="<?php echo THEME_IMAGE_HOTELDEALS . '/europe/europe-2.jpg' ?>"
-            />
+            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="https://trip-support.s3.amazonaws.com/images/hotels/pages/europe/europe-2.jpg" />
           </div>
         </div>
 
         <div class="flex-wrap w-1/2">
           <div class="w-full p-1.5 h-[300px]">
-            <img
-              alt="gallery"
-              class="block object-cover object-center w-full h-full rounded-lg"
-              src="<?php echo THEME_IMAGE_HOTELDEALS . '/europe/europe-1.jpg' ?>"
-            />
+            <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="https://trip-support.s3.amazonaws.com/images/hotels/pages/europe/europe-1.jpg" />
           </div>
           <div class="flex">
             <div class="sm:w-1/2 w-full">
               <div class="w-full h-[200px] p-1.5">
-                <img
-                  alt="gallery"
-                  class="block object-cover object-center w-full h-full rounded-lg"
-                  src="<?php echo THEME_IMAGE_HOTELDEALS . '/europe/europe-3.jpg' ?>"
-                />
+                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="https://trip-support.s3.amazonaws.com/images/hotels/pages/europe/europe-3.jpg" />
               </div>
             </div>
             <div class="hidden sm:block sm:w-1/2">
               <div class="w-full h-[200px] p-1.5">
-                <img
-                  alt="gallery"
-                  class="block object-cover object-center w-full h-full rounded-lg"
-                  src="<?php echo THEME_IMAGE_HOTELDEALS . '/europe/europe-6.jpg' ?>"
-                />
+                <img alt="gallery" class="block object-cover object-center w-full h-full rounded-lg" src="https://trip-support.s3.amazonaws.com/images/hotels/pages/europe/europe-6.jpg" />
               </div>
             </div>
           </div>
@@ -107,4 +83,3 @@
     </div>
   </section>
 </div>
-

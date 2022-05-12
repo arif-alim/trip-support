@@ -137,31 +137,31 @@
     <div class="max-w-7xl mx-auto py-6 ">
       <div class="grid grid-cols-9 gap-8 sm:grid-cols-12 md:grid-cols-12 lg:grid-cols-9 items-center">
         <div class="col-span-2 flex sm:col-span-2 md:col-span-2 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-tico.svg" alt="Tuple" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-tico.svg" alt="Tico" />
         </div>
         <div class="col-span-2 flex justify-center md:col-span-2 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-iata.svg" alt="Mirage" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-iata.svg" alt="Iata" />
         </div>
         <div class="col-span-3 flex justify-center md:col-span-2 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-asta.svg" alt="StaticKit" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-asta.svg" alt="Asta" />
         </div>
         <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-visa.svg" alt="Workcation" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-visa.svg" alt="Visa" />
         </div>
         <div class="col-span-3 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-firstData.svg" alt="Transistor" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-firstData.svg" alt="First Data" />
         </div>
         <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-masterCard.svg" alt="Workcation" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-masterCard.svg" alt="Master Card" />
         </div>
         <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-americanExpress.svg" alt="Workcation" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-americanExpress.svg" alt="American Express" />
         </div>
         <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-BBB.svg" alt="Workcation" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-BBB.svg" alt="BBB" />
         </div>
         <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="https://tripsupport.s3.ca-central-1.amazonaws.com/footer-icons/svg/footer-icon-secureSSL.svg" alt="Workcation" />
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/icons/footer-icon-secureSSL.svg" alt="Secure SSL" />
         </div>
       </div>
     </div>

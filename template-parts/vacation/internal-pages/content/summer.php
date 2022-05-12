@@ -29,7 +29,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/seasonal/orlando.jpg' ?>" alt="Las Vegas" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/seasonal-vacations/orlando.jpg" alt="Las Vegas" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/seasonal/vegas.jpg' ?>" alt="Las Vegas" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/seasonal-vacations/vegas.jpg" alt="Las Vegas" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/seasonal/dominican.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/seasonal-vacations/dominican.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>

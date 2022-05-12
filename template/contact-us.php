@@ -24,10 +24,10 @@
         <div class="grid grid-cols-1 gap-8 md:grid-cols-12 flex items-center ">
           <div class="col-span-1 md:col-span-6">
             <div class="flex flex-col rounded shadow-md bg-white overflow-hidden">
-              <div class="bg-cover mb-8" style="background-image: url(<?php echo THEME_IMAGE_HERO . '/location7191.jpg' ?>);">
+              <div class="bg-cover mb-8" style="background-image: url(https://trip-support.s3.amazonaws.com/images/hero/location7191.jpg);">
                 <div class="h-48 bg-opacity-25 flex items-end justify-center">
                   <div class="rounded-full bg-white -mb-12 p-2">
-                    <img src="<?php echo THEME_IMAGE_HERO . '/ts-icon.png' ?>" alt="User Avatar" class="inline-block w-20 h-20 rounded-full">
+                    <img src="https://trip-support.s3.amazonaws.com/images/hero/ts-icon.png" alt="User Avatar" class="inline-block w-20 h-20 rounded-full">
                   </div>
                 </div>
               </div>
@@ -103,10 +103,10 @@
           </div>
           <div class="col-span-1 md:col-span-6">
             <div class="flex flex-col rounded shadow-md bg-white overflow-hidden">
-              <div class="bg-cover mb-8" style="background-image: url(<?php echo THEME_IMAGE_HERO . '/office4667.jpg' ?>);">
+              <div class="bg-cover mb-8" style="background-image: url(https://trip-support.s3.amazonaws.com/images/hero/office4667.jpg);">
                 <div class="h-48 bg-opacity-25 flex items-end justify-center">
                   <div class="rounded-full bg-white -mb-12 p-2">
-                    <img src="<?php echo THEME_IMAGE_HERO . '/ts-icon.png' ?>" alt="User Avatar" class="inline-block w-20 h-20 rounded-full">
+                    <img src="https://trip-support.s3.amazonaws.com/images/hero/ts-icon.png" alt="User Avatar" class="inline-block w-20 h-20 rounded-full">
                   </div>
                 </div>
               </div>
@@ -185,7 +185,7 @@
             <!-- support cards -->
             <div class="flex justify-center my-4"><a href="/customer-support">
                 <div class="flex flex-col md:flex-row md:max-w-xl rounded-lg bg-white hover:bg-gray-50 shadow-lg items-center py-2 px-8">
-                  <img class="h-12 w-12 object-cover rounded-t-lg md:rounded-none md:rounded-l-lg" src="<?php echo THEME_IMAGE_HERO . '/help.svg' ?>" alt="">
+                  <img class="h-12 w-12 object-cover rounded-t-lg md:rounded-none md:rounded-l-lg" src="https://trip-support.s3.amazonaws.com/images/hero/help.svg" alt="">
                   <div class="p-6 flex flex-col justify-start">
                     <h5 class="text-gray-900 text-lg font-bold mb-2 tracking-tight">
                       Customer Support
@@ -199,7 +199,7 @@
             </div>
             <div class="flex justify-center my-4">
               <div class="flex flex-col md:flex-row md:max-w-xl rounded-lg bg-white hover:bg-gray-50 shadow-lg items-center py-2 px-8">
-                <img class="h-12 w-12 object-cover rounded-t-lg md:rounded-none md:rounded-l-lg" src="<?php echo THEME_IMAGE_HERO . '/secure.svg' ?>" alt="">
+                <img class="h-12 w-12 object-cover rounded-t-lg md:rounded-none md:rounded-l-lg" src="https://trip-support.s3.amazonaws.com/images/hero/secure.svg" alt="">
                 <div class="p-6 flex flex-col justify-start">
                   <h5 class="text-gray-900 text-lg font-bold mb-2 tracking-tight">
                     100% Secured Payment

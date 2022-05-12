@@ -74,7 +74,7 @@
               <div class="absolute rounded-3xl top-0 right-0 w-32 h-32 bg-rose-200 bg-opacity-50 -mt-10 -mr-10 transform -rotate-6"></div>
               <div class="absolute rounded-3xl bottom-0 left-0 w-32 h-32 bg-blue-200 bg-opacity-50 -mb-10 -ml-10 transform rotate-6"></div>
 
-              <img src="<?php echo THEME_IMAGE_HOME . '/blog-post-1.jpg' ?>" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg w-full object-cover aspect-[5/2]">
+              <img src="https://trip-support.s3.amazonaws.com/images/home/blog-post-1.jpg" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg w-full object-cover aspect-[5/2]">
             </div>
 
 

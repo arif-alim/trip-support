@@ -21,7 +21,7 @@
       </div>
     </div>
     <div class="hidden sm:flex col-span-6">
-      <div class="-mt-10"><img class="hidden h-56 max-w-7xl object-cover sm:h-72 md:h-full lg:block lg:w-full lg:h-full " src="<?php echo THEME_IMAGE_HERO . '/hotair-bg.jpg' ?>" alt=""></div>
+      <div class="-mt-10"><img class="hidden h-56 max-w-7xl object-cover sm:h-72 md:h-full lg:block lg:w-full lg:h-full " src="https://trip-support.s3.amazonaws.com/images/hero/hotair-bg.jpg" alt=""></div>
     </div>
   </div>
 </div>

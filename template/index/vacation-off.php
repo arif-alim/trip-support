@@ -4,24 +4,16 @@
             <div class="max-w-7xl mx-auto px-4">
                 <div class="relative pt-48 pb-16 sm:pb-24">
                     <div class="sm:mx-auto">
-                        <h2
-							id="sale-heading"
-							class="hidden sm:block text-4xl font-extrabold sm:leading-snug tracking-tight sm:tracking-normal text-white md:text-5xl"
-						>
-							Vacation Deals, 
+                        <h2 id="sale-heading" class="hidden sm:block text-4xl font-extrabold sm:leading-snug tracking-tight sm:tracking-normal text-white md:text-5xl">
+                            Vacation Deals,
                             <br>
                             Offers and Packages
-						</h2>
-                        <h2
-                            id="sale-heading"
-                            class="block sm:hidden text-2xl font-extrabold tracking-tight sm:tracking-normal text-white"
-                        >
+                        </h2>
+                        <h2 id="sale-heading" class="block sm:hidden text-2xl font-extrabold tracking-tight sm:tracking-normal text-white">
                             Vacation Deals, Offers and Packages
                         </h2>
                         <div class="mt-6 text-base">
-                            <a href="javascript:void(0)" class="font-semibold text-white"
-                            >View our promotions<span aria-hidden="true">→</span></a
-                            >
+                            <a href="javascript:void(0)" class="font-semibold text-white">View our promotions<span aria-hidden="true">→</span></a>
                         </div>
                     </div>
 
@@ -29,53 +21,29 @@
                         <div class="ml-24 flex space-x-6 min-w-max sm:ml-3 lg:space-x-8">
                             <div class="flex space-x-6 sm:flex-col sm:space-x-0 sm:space-y-6 lg:space-y-8">
                                 <div class="flex-shrink-0">
-                                    <img
-                                        class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72"
-                                        src="<?php echo THEME_IMAGE_HOME.'/deals-8.jpg'?>"
-                                        alt=""
-                                    />
+                                    <img class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72" src="https://trip-support.s3.amazonaws.com/images/home/deals-8.jpg" alt="" />
                                 </div>
 
                                 <div class="mt-6 flex-shrink-0 sm:mt-0">
-                                    <img
-                                        class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72"
-                                        src="<?php echo THEME_IMAGE_HOME.'/deals-2.jpg'?>"
-                                        alt=""
-                                    />
+                                    <img class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72" src="https://trip-support.s3.amazonaws.com/images/home/deals-2.jpg" alt="" />
                                 </div>
                             </div>
                             <div class="flex space-x-6 sm:-mt-20 sm:flex-col sm:space-x-0 sm:space-y-6 lg:space-y-8">
                                 <div class="flex-shrink-0">
-                                    <img
-                                        class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72"
-                                        src="<?php echo THEME_IMAGE_HOME.'/deals-7.jpg'?>"
-                                        alt=""
-                                    />
+                                    <img class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72" src="https://trip-support.s3.amazonaws.com/images/home/deals-7.jpg" alt="" />
                                 </div>
 
                                 <div class="mt-6 flex-shrink-0 sm:mt-0">
-                                    <img
-                                        class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72"
-                                        src="<?php echo THEME_IMAGE_HOME.'/deals-6.jpg'?>"
-                                        alt=""
-                                    />
+                                    <img class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72" src="https://trip-support.s3.amazonaws.com/images/home/deals-6.jpg" alt="" />
                                 </div>
                             </div>
                             <div class="flex space-x-6 sm:flex-col sm:space-x-0 sm:space-y-6 lg:space-y-8">
                                 <div class="flex-shrink-0">
-                                    <img
-                                        class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72"
-                                        src="<?php echo THEME_IMAGE_HOME.'/deals-3.jpg'?>"
-                                        alt=""
-                                    />
+                                    <img class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72" src="https://trip-support.s3.amazonaws.com/images/home/deals-3.jpg" alt="" />
                                 </div>
 
                                 <div class="mt-6 flex-shrink-0 sm:mt-0">
-                                    <img
-                                        class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72"
-                                        src="<?php echo THEME_IMAGE_HOME.'/deals-5.jpg'?>"
-                                        alt=""
-                                    />
+                                    <img class="h-64 w-64 rounded-lg object-cover md:h-72 md:w-72" src="https://trip-support.s3.amazonaws.com/images/home/deals-5.jpg" alt="" />
                                 </div>
                             </div>
                         </div>

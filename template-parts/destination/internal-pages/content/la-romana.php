@@ -18,13 +18,13 @@
 <!-- Images -->
 <div class="flex space-x-2">
   <div>
-    <img src="<?php echo THEME_IMAGE_HERO . '/blog-bg.jpg'?>" alt="bordeaux, Paris" class="rounded-lg">
+    <img src="<?php echo https://trip-support.s3.amazonaws.com/images/hero/blog-bg.jpg . '/blog-bg.jpg'?>" alt="bordeaux, Paris" class="rounded-lg">
   </div>
   <div>
-    <img src="<?php echo THEME_IMAGE_HERO . '/hero-1.jpg'?>" alt="bordeaux, Paris" class="rounded-lg">
+    <img src="<?php echo https://trip-support.s3.amazonaws.com/images/hero/blog-bg.jpg . '/hero-1.jpg'?>" alt="bordeaux, Paris" class="rounded-lg">
   </div>
   <div>
-    <img src="<?php echo THEME_IMAGE_HERO . '/hero-2.jpg'?>" alt="bordeaux, Paris" class="rounded-lg">
+    <img src="<?php echo https://trip-support.s3.amazonaws.com/images/hero/blog-bg.jpg . '/hero-2.jpg'?>" alt="bordeaux, Paris" class="rounded-lg">
   </div>
 </div>
 <!-- END Images -->

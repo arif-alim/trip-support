@@ -20,20 +20,20 @@
             <div class="hidden sm:flex absolute top-24 left-1/2 transform -translate-x-1/2 sm:top-4 sm:translate-x-0">
               <div class="ml-24 flex space-x-6 min-w-max sm:ml-3 lg:space-x-4">
                 <div class="flex space-x-6 sm:flex-col sm:space-x-0 sm:space-y-6 lg:space-y-4">
-                  <div class="flex-shrink-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="<?php echo THEME_IMAGE_HERO . '/blog-bg.jpg' ?>" alt=""></div>
+                  <div class="flex-shrink-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="https://trip-support.s3.amazonaws.com/images/hero/blog-bg.jpg" alt=""></div>
 
-                  <div class="mt-6 flex-shrink-0 sm:mt-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="<?php echo THEME_IMAGE_HERO . '/hotel-11.jpg' ?>" alt=""></div>
+                  <div class="mt-6 flex-shrink-0 sm:mt-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="https://trip-support.s3.amazonaws.com/images/hero/hotel-11.jpg" alt=""></div>
                 </div>
                 <div class="flex space-x-6 sm:-mt-20 sm:flex-col sm:space-x-0 sm:space-y-6 lg:space-y-4">
-                  <div class="flex-shrink-0"><img class="h-[250px] w-[180px] rounded-lg object-cover" src="<?php echo THEME_IMAGE_HERO . '/hero-2.jpg' ?>" alt=""></div>
+                  <div class="flex-shrink-0"><img class="h-[250px] w-[180px] rounded-lg object-cover" src="https://trip-support.s3.amazonaws.com/images/hero/hero-2.jpg" alt=""></div>
 
-                  <div class="mt-6 flex-shrink-0 sm:mt-0"><img class="h-[250px] w-[180px] rounded-lg object-cover" src="<?php echo THEME_IMAGE_HOME . '/flights-section.jpg' ?>" alt="">
+                  <div class="mt-6 flex-shrink-0 sm:mt-0"><img class="h-[250px] w-[180px] rounded-lg object-cover" src="https://trip-support.s3.amazonaws.com/images/home/flights-section.jpg" alt="">
                   </div>
                 </div>
                 <div class="flex space-x-6 sm:flex-col sm:space-x-0 sm:space-y-6 lg:space-y-4">
-                  <div class="flex-shrink-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="<?php echo THEME_IMAGE_HERO . '/acapulco.jpg' ?>" alt=""></div>
+                  <div class="flex-shrink-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="https://trip-support.s3.amazonaws.com/images/hero/acapulco.jpg" alt=""></div>
 
-                  <div class="mt-6 flex-shrink-0 sm:mt-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="<?php echo THEME_IMAGE_HERO . '/muskoka.jpg' ?>" alt=""></div>
+                  <div class="mt-6 flex-shrink-0 sm:mt-0"><img class="h-[200px] w-[180px] rounded-lg object-cover" src="https://trip-support.s3.amazonaws.com/images/hero/muskoka.jpg" alt=""></div>
                 </div>
               </div>
             </div>
@@ -369,7 +369,7 @@
             </div>
             <div class="lg:col-span-4">
               <div class="aspect-w-2 aspect-h-1 rounded-lg bg-gray-100 overflow-hidden sm:aspect-w-2 sm:aspect-h-3">
-                <img src="<?php echo THEME_IMAGE_HERO . '/cuba-varadero.jpg' ?>" alt="Maple organizer base with slots, supporting white polycarbonate trays of various sizes." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/hero/cuba-varadero.jpg" alt="Trip Support" class="object-center object-cover">
               </div>
             </div>
           </div>
@@ -509,7 +509,7 @@
             </div>
             <div class="lg:col-span-4">
               <div class="aspect-w-2 aspect-h-1 rounded-lg bg-gray-100 overflow-hidden sm:aspect-w-2 sm:aspect-h-3">
-                <img src="<?php echo THEME_IMAGE_HERO . '/mexico-cancun.jpg' ?>" alt="Maple organizer base with slots, supporting white polycarbonate trays of various sizes." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/hero/mexico-cancun.jpg" alt="Trip Support" class="object-center object-cover">
               </div>
             </div>
           </div>
@@ -649,7 +649,7 @@
             </div>
             <div class="lg:col-span-4">
               <div class="aspect-w-2 aspect-h-1 rounded-lg bg-gray-100 overflow-hidden sm:aspect-w-2 sm:aspect-h-3">
-                <img src="<?php echo THEME_IMAGE_HERO . '/dominican-republic.jpg' ?>" alt="Maple organizer base with slots, supporting white polycarbonate trays of various sizes." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/hero/dominican-republic.jpg" alt="Trip Support" class="object-center object-cover">
               </div>
             </div>
           </div>
@@ -669,7 +669,7 @@
           <div class="absolute rounded-xl bottom-0 left-0 w-32 h-32 bg-blue-200 bg-opacity-50 -mb-10 -ml-10 transform rotate-3">
           </div>
           <div class="aspect-w-2 aspect-h-1 rounded-lg bg-gray-100 overflow-hidden sm:aspect-w-1 sm:aspect-h-2">
-            <img src="<?php echo THEME_IMAGE_HERO . '/hero-2.jpg' ?>" alt="Maple organizer base with slots, supporting white polycarbonate trays of various sizes." class="object-center object-cover">
+            <img src="https://trip-support.s3.amazonaws.com/images/hero/hero-2.jpg" alt="Trip Support" class="object-center object-cover">
           </div>
         </div>
       </div>

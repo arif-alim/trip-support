@@ -35,7 +35,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/seasonal/spring/spring-vacation.jpg' ?>" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/seasonal-vacations/spring-vacation.jpg" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -61,7 +61,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/seasonal/summer/summer-vacation.jpg' ?>" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/seasonal-vacations/summer-vacation.jpg" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -88,7 +88,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/seasonal/fall/fall-vacation.jpg' ?>" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/seasonal-vacations/fall-vacation.jpg" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -114,7 +114,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/seasonal/winter/winter-vacation.jpg' ?>" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/seasonal-vacations/winter-vacation.jpg" alt="Hero Image" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>

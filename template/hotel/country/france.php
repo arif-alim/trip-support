@@ -4,16 +4,12 @@
 <?php $toulouseHotelsURL = "https://secure.tripsupport.ca/hotel/search/%7B%22To%22:%22%7B%5C%22id%5C%22:2972315,%5C%22name%5C%22:%5C%22Toulouse%5C%22,%5C%22secondaryName%5C%22:%5C%22Occitanie,%20France%5C%22,%5C%22type%5C%22:0%7D%22,%22Rooms%22:1,%22travellersForm%22:%7B%22travellers%22:%5B%7B%22adults%22:2,%22children%22:0,%22childrenAges%22:%5B%5D%7D%5D%7D%7D" ?>
 
 
-<div
-  class="mt-8 grid grid-cols-1 gap-y-4 sm:grid-cols-2 sm:grid-rows-3 gap-x-4"
->
+<div class="mt-8 grid grid-cols-1 gap-y-4 sm:grid-cols-2 sm:grid-rows-3 gap-x-4">
   <!-- Card -->
   <a href="<?php echo $parisHotelsURL ?>" class="flex flex-col rounded-lg shadow-sm border bg-white overflow-hidden sm:row-span-3">
     <!-- Card Cover -->
     <div class="aspect-w-3 aspect-h-1 sm:aspect-w-2 sm:aspect-h-1 bg-gray-100">
-      <img src="<?php echo THEME_IMAGE_HOTELS . '/france/paris.jpg'?>" 
-        alt="City of Paris"
-        class="object-bototm object-cover" />
+      <img src="https://trip-support.s3.amazonaws.com/images/hotels/tabs/france/paris.jpg" alt="City of Paris" class="object-bototm object-cover" />
     </div>
     <!-- END Card Cover -->
 
@@ -35,25 +31,25 @@
       </div>
     </div>
     <!-- END Card Body -->
-    
+
 
     <!-- Card Footer -->
     <div class="pt-4 pb-2 px-5 lg:px-6 w-full flex items-center">
       <div class="grid grid-cols-2 gap-8 md:grid-cols-6 lg:grid-cols-5">
         <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <img class="h-12" src="<?php echo TRIP_SUPPORT_FEATURE_VACATION_MAIN_FILE_URL . 'assets/svg/radisson.svg'?>" alt="radisson hotel">
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/images/hotels/hilton.svg" alt="radisson hotel">
         </div>
         <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <img class="h-12" src="<?php echo TRIP_SUPPORT_FEATURE_VACATION_MAIN_FILE_URL . 'assets/svg/hilton.svg'?>" alt="hilton hotel">
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/images/hotels/radisson.svg" alt="hilton hotel">
         </div>
         <div class="col-span-1 flex justify-center md:col-span-2 lg:col-span-1">
-          <img class="h-12" src="<?php echo TRIP_SUPPORT_FEATURE_VACATION_MAIN_FILE_URL . 'assets/svg/ritz-carlton.svg'?>" alt="ritz-carlton hotel">
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/images/hotels/ritz-carlton.svg" alt="ritz-carlton hotel">
         </div>
         <div class="col-span-1 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="<?php echo TRIP_SUPPORT_FEATURE_VACATION_MAIN_FILE_URL . 'assets/svg/shangri-la.svg'?>" alt="shangri-la hotel icon">
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/images/hotels/shangri-la.svg" alt="shangri-la hotel icon">
         </div>
         <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
-          <img class="h-12" src="<?php echo TRIP_SUPPORT_FEATURE_VACATION_MAIN_FILE_URL . 'assets/svg/westin.svg'?>" alt="westin hotel icon">
+          <img class="h-12" src="https://trip-support.s3.amazonaws.com/images/hotels/westin.svg" alt="westin hotel icon">
         </div>
       </div>
     </div>
@@ -63,12 +59,12 @@
   <!-- END Card -->
   <!-- Toronto Luxury hotels -->
   <a href="<?php echo $marseilleHotelsURL ?>" class="tr-each-feature-vacation-container-1 flex flex-col rounded-lg shadow-sm border bg-white overflow-hidden sm:flex-row sm:row-span-1">
-    <div class="h-60 sm:h-auto sm:w-[40%] bg-cover bg-center" style="background-image: url(<?php echo THEME_IMAGE_HOTELS . '/france/marseille.jpg' ?>);"></div>
+    <div class="h-60 sm:h-auto sm:w-[40%] bg-cover bg-center" style="background-image: url(https://trip-support.s3.amazonaws.com/images/hotels/tabs/france/marseille.jpg);"></div>
     <div class="p-4 grow w-full sm:w-[60%]">
       <p class="font-semibold text-xz mb-1 text-rose-600">France</p>
       <h3 class="tr-ellipsis-2 font-bold text-pblue-900 text-lg mb-2">Marseille</h3>
       <p class="text-slate-800 text-sm tr-ellipsis-2">
-        Marseille, a port city in southern France, has been a crossroads of immigration and trade since its founding by the Greeks circa 600 B.C. At its heart is the Vieux-Port (Old Port), where fishmongers sell their catch along the boat-lined quay. Basilique Notre-Dame-de-la-Garde is a Romanesque-Byzantine church. Modern landmarks include Le Corbusier’s influential Cité Radieuse complex and Zaha Hadid’s CMA CGM Tower. 
+        Marseille, a port city in southern France, has been a crossroads of immigration and trade since its founding by the Greeks circa 600 B.C. At its heart is the Vieux-Port (Old Port), where fishmongers sell their catch along the boat-lined quay. Basilique Notre-Dame-de-la-Garde is a Romanesque-Byzantine church. Modern landmarks include Le Corbusier’s influential Cité Radieuse complex and Zaha Hadid’s CMA CGM Tower.
       </p>
       <div class="line-clamp-2 mt-1 space-y-1">
         <div class="font-medium inline-flex px-2 py-1 leading-4 text-xs rounded-full text-gray-600 bg-gray-100">Abbaye</div>
@@ -81,7 +77,7 @@
   </a>
   <!-- Toronto Luxury hotels -->
   <a href="<?php echo $lyonHotelsURL ?>" class="tr-each-feature-vacation-container-1 flex flex-col rounded-lg shadow-sm border bg-white overflow-hidden sm:flex-row sm:row-span-1">
-    <div class="h-60 sm:h-auto sm:w-[40%] bg-cover bg-center" style="background-image: url(<?php echo THEME_IMAGE_HOTELS . '/france/lyon.jpg' ?>);"></div>
+    <div class="h-60 sm:h-auto sm:w-[40%] bg-cover bg-center" style="background-image: url(https://trip-support.s3.amazonaws.com/images/hotels/tabs/france/lyon.jpg);"></div>
     <div class="p-4 grow w-full sm:w-[60%]">
       <p class="font-semibold text-xz mb-1 text-rose-600">France</p>
       <h3 class="tr-ellipsis-2 font-bold text-pblue-900 text-lg mb-2">Lyon</h3>
@@ -99,12 +95,12 @@
   </a>
   <!-- Toronto Luxury hotels -->
   <a href="<?php echo $toulouseHotelsURL ?>" class="tr-each-feature-vacation-container-1 flex flex-col rounded-lg shadow-sm border bg-white overflow-hidden sm:flex-row sm:row-span-1">
-    <div class="h-60 sm:h-auto sm:w-[40%] bg-cover bg-center" style="background-image: url(<?php echo THEME_IMAGE_HOTELS . '/france/toulouse.jpg' ?>);"></div>
+    <div class="h-60 sm:h-auto sm:w-[40%] bg-cover bg-center" style="background-image: url(https://trip-support.s3.amazonaws.com/images/hotels/tabs/france/toulouse.jpg);"></div>
     <div class="p-4 grow w-full sm:w-[60%]">
       <p class="font-semibold text-xz mb-1 text-rose-600">France</p>
       <h3 class="tr-ellipsis-2 font-bold text-pblue-900 text-lg mb-2">Toulouse</h3>
       <p class="text-slate-800 text-sm tr-ellipsis-2">
-        Toulouse, capital of France’s southern Occitanie region, is bisected by the Garonne River and sits near the Spanish border. It’s known as La Ville Rose (‘The Pink City’) due to the terra-cotta bricks used in many of its buildings. Its 17th-century Canal du Midi links the Garonne to the Mediterranean Sea, and can be traveled by boat, bike or on foot. 
+        Toulouse, capital of France’s southern Occitanie region, is bisected by the Garonne River and sits near the Spanish border. It’s known as La Ville Rose (‘The Pink City’) due to the terra-cotta bricks used in many of its buildings. Its 17th-century Canal du Midi links the Garonne to the Mediterranean Sea, and can be traveled by boat, bike or on foot.
       </p>
 
       <div class="line-clamp-2 mt-1 space-y-1">
@@ -121,28 +117,29 @@
 
 <style>
   .tr-ellipsis-4 {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: initial;
-	display: -webkit-box;
-	-webkit-line-clamp: 4;
-	-webkit-box-orient: vertical;
-}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: initial;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+  }
 
   .tr-ellipsis-3 {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: initial;
-	display: -webkit-box;
-	-webkit-line-clamp: 3;
-	-webkit-box-orient: vertical;
-}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: initial;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+
   .tr-ellipsis-2 {
-	overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: initial;
-	display: -webkit-box;
-	-webkit-line-clamp: 2;
-	-webkit-box-orient: vertical;
-}
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: initial;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
 </style>

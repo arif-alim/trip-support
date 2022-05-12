@@ -20,13 +20,13 @@
       </div>
       <div class="carousel-inner relative w-full overflow-hidden rounded-lg ">
         <div class="carousel-item active float-left w-full">
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/hawaii/hawaii-2.jpg' ?>" class="block w-full object-cover object-center" alt="Wild Landscape" />
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/hawaii/hawaii-2.jpg" class="block w-full object-cover object-center" alt="Wild Landscape" />
         </div>
         <div class="carousel-item float-left w-full">
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/hawaii/hawaii-1.jpg' ?>" class="block w-full object-cover object-center" alt="Camera" />
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/hawaii/hawaii-1.jpg" class="block w-full object-cover object-center" alt="Camera" />
         </div>
         <div class="carousel-item float-left w-full">
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/hawaii/hawaii-3.jpg' ?>" class="block w-full object-cover object-center" alt="Exotic Fruits" />
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/hawaii/hawaii-3.jpg" class="block w-full object-cover object-center" alt="Exotic Fruits" />
         </div>
       </div>
       <button class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0" type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide="prev">
@@ -83,7 +83,7 @@
           </p>
         </div>
         <div>
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/hawaii/hawaii-haleakala.jpg' ?>" alt="Hawaii" class="rounded-lg">
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/hawaii/hawaii-haleakala.jpg" alt="Hawaii" class="rounded-lg">
         </div>
       </div>
     </div>
@@ -116,7 +116,7 @@
           </p>
         </div>
         <div>
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/hawaii/hawaii-diamond-head.jpg' ?>" alt="Hawaii" class="rounded-lg">
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/hawaii/hawaii-diamond-head.jpg" alt="Hawaii" class="rounded-lg">
         </div>
       </div>
     </div>
@@ -149,7 +149,7 @@
           </p>
         </div>
         <div>
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/hawaii/hawaii-kona.jpg' ?>" alt="Kona" class="rounded-lg">
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/hawaii/hawaii-kona.jpg" alt="Kona" class="rounded-lg">
         </div>
       </div>
     </div>

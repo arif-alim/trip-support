@@ -23,7 +23,7 @@
           <div class="mt-8 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-3 sm:gap-y-10 ">
             <div class="relative group">
               <div class="aspect-w-5 aspect-h-2 sm:aspect-w-3 sm:aspect-h-2 rounded-lg overflow-hidden bg-gray-100">
-                <img src="<?php echo THEME_IMAGE_FLIGHTS . '/toronto-london.jpg' ?>" alt="Popular Round Trip Deals by Trip Support" class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/flights/toronto-london.jpg" alt="Popular Round Trip Deals by Trip Support" class="object-center object-cover">
                 <div class="flex items-end opacity-0 p-4 group-hover:opacity-100" aria-hidden="true">
                   <div class="w-full bg-white backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-gray-900 text-center">
                     <a href="https://secure.tripsupport.ca/flight/roundtrip;tripType=roundtrip;destination=LHR;origin=YYZ;IsFlexiSearch=false;ns=false;departDate=3%20Jun%202022;returnDate=10%20Jun%202022;adult=1;child=0;infant=0;class=Economy;multiOrigin=;multiDestination=;multidate=;lg=en-EN"><span aria-hidden="true" class="absolute inset-0"></span>
@@ -46,7 +46,7 @@
 
             <div class="relative group">
               <div class="aspect-w-5 aspect-h-2 sm:aspect-w-3 sm:aspect-h-2 rounded-lg overflow-hidden bg-gray-100">
-                <img src="<?php echo THEME_IMAGE_FLIGHTS . '/toronto-istanbul.jpg' ?>" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/flights/toronto-istanbul.jpg" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
                 <div class="flex items-end opacity-0 p-4 group-hover:opacity-100" aria-hidden="true">
                   <div class="w-full bg-white backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-gray-900 text-center">
                     <a href="https://secure.tripsupport.ca/flight/roundtrip;tripType=roundtrip;origin=YYZ;destination=IST;departDate=1%20Jun%202022;returnDate=8%20Jun%202022;adult=1;child=0;infant=0;class=Economy;IsFlexiSearch=false;multiOrigin=;multiDestination=;multidate="><span aria-hidden="true" class="absolute inset-0"></span>
@@ -69,7 +69,7 @@
 
             <div class="relative group">
               <div class="aspect-w-5 aspect-h-2 sm:aspect-w-3 sm:aspect-h-2 rounded-lg overflow-hidden bg-gray-100">
-                <img src="<?php echo THEME_IMAGE_FLIGHTS . '/toronto-dublin.jpg' ?>" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/flights/toronto-dublin.jpg" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
                 <div class="flex items-end opacity-0 p-4 group-hover:opacity-100" aria-hidden="true">
                   <div class="w-full bg-white backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-gray-900 text-center">
                     <a href="https://secure.tripsupport.ca/flight/roundtrip;tripType=roundtrip;origin=YYZ;destination=DUB;departDate=29%20Jun%202022;returnDate=6%20Jul%202022;adult=1;child=0;infant=0;class=Economy;IsFlexiSearch=false;multiOrigin=;multiDestination=;multidate="><span aria-hidden="true" class="absolute inset-0"></span>
@@ -92,7 +92,7 @@
             <!-- Tehran -->
             <div class="relative group">
               <div class="aspect-w-5 aspect-h-2 sm:aspect-w-3 sm:aspect-h-2 rounded-lg overflow-hidden bg-gray-100">
-                <img src="<?php echo THEME_IMAGE_FLIGHTS . '/toronto-tehran.jpg' ?>" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/flights/toronto-tehran.jpg" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
                 <div class="flex items-end opacity-0 p-4 group-hover:opacity-100" aria-hidden="true">
                   <div class="w-full bg-white backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-gray-900 text-center">
                     <a href="https://secure.tripsupport.ca/flight/roundtrip;tripType=roundtrip;origin=YYZ;destination=IKA;departDate=9%20Jul%202022;returnDate=16%20Jul%202022;adult=1;child=0;infant=0;class=Economy;IsFlexiSearch=false;multiOrigin=;multiDestination=;multidate="><span aria-hidden="true" class="absolute inset-0"></span>
@@ -115,7 +115,7 @@
             <!-- Bangkok -->
             <div class="relative group">
               <div class="aspect-w-5 aspect-h-2 sm:aspect-w-3 sm:aspect-h-2 rounded-lg overflow-hidden bg-gray-100">
-                <img src="<?php echo THEME_IMAGE_FLIGHTS . '/toronto-bangkok.jpg' ?>" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/flights/toronto-bangkok.jpg" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
                 <div class="flex items-end opacity-0 p-4 group-hover:opacity-100" aria-hidden="true">
                   <div class="w-full bg-white backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-gray-900 text-center">
                     <a href="https://secure.tripsupport.ca/flight/roundtrip;tripType=roundtrip;destination=BKK;origin=YYZ;IsFlexiSearch=false;departDate=1%20Jun%202022;returnDate=8%20Jun%202022;adult=1;child=0;infant=0;class=Economy;multiOrigin=YYZ;multiDestination=BKK;multidate="><span aria-hidden="true" class="absolute inset-0"></span>
@@ -138,7 +138,7 @@
 
             <div class="relative group">
               <div class="aspect-w-5 aspect-h-2 sm:aspect-w-3 sm:aspect-h-2 rounded-lg overflow-hidden bg-gray-100">
-                <img src="<?php echo THEME_IMAGE_FLIGHTS . '/toronto-calgary.jpg' ?>" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
+                <img src="https://trip-support.s3.amazonaws.com/images/flights/toronto-calgary.jpg" alt="Popular Round Trip Deals by Trip Support." class="object-center object-cover">
                 <div class="flex items-end opacity-0 p-4 group-hover:opacity-100" aria-hidden="true">
                   <div class="w-full bg-white backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-gray-900 text-center">
                     <a href="https://secure.tripsupport.ca/flight/roundtrip;tripType=roundtrip;origin=YYZ;destination=YYC;departDate=4%20Jun%202022;returnDate=11%20Jun%202022;adult=1;child=0;infant=0;class=Economy;IsFlexiSearch=false;multiOrigin=;multiDestination=;multidate="><span aria-hidden="true" class="absolute inset-0"></span>
@@ -165,5 +165,5 @@
   </div>
   <div class="sm:hidden px-4"><a href="javascript:void(0)" class="block text-sm font-semibold text-rose-600 hover:text-rose-400">Browse all
       vacation destinations<span aria-hidden="true">→</span></a></div>
-  <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2"><img class="hidden h-56 max-w-7xl object-cover sm:h-72 md:h-full lg:block lg:w-full lg:h-full" src="<?php echo THEME_IMAGE_HOME . '/flights-section.jpg' ?>" alt=""></div>
+  <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2"><img class="hidden h-56 max-w-7xl object-cover sm:h-72 md:h-full lg:block lg:w-full lg:h-full" src="https://trip-support.s3.amazonaws.com/images/flights/flights-section.jpg" alt=""></div>
 </div>

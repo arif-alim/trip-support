@@ -1,5 +1,5 @@
 <style>
-      h1 {
+  h1 {
     background: -webkit-linear-gradient(left, #00246B, #E11D48);
     background: -o-linear-gradient(right, #00246B, #E11D48);
     background: -moz-linear-gradient(right, #00246B, #E11D48);
@@ -25,7 +25,7 @@
           <polygon points="50,0 100,0 50,100 0,100"></polygon>
         </svg>
       </div>
-      <div class="-mt-40 lg:-mt-10"><img class="max-w-7xl object-cover sm:h-72 md:h-1/2 lg:block lg:w-full lg:h-full" src="<?php echo THEME_IMAGE_HOME . '/flights-section.jpg' ?>" alt=""></div>
+      <div class="-mt-40 lg:-mt-10"><img class="max-w-7xl object-cover sm:h-72 md:h-1/2 lg:block lg:w-full lg:h-full" src="https://trip-support.s3.amazonaws.com/images/home/flights-section.jpg" alt=""></div>
     </div>
   </div>
 </div>

@@ -30,7 +30,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/varadero.jpg' ?>" alt="Las Vegas" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/varadero.jpg" alt="Las Vegas" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -49,7 +49,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/cayo-coco.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/cayo-coco.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -67,7 +67,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/holguin.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/holguin.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -85,7 +85,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/riviera-maya.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/riviera-maya.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -103,7 +103,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/cancun.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/cancun.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -121,7 +121,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/cozumel.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/cozumel.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -139,7 +139,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/montego-bay.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/montego-bay.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -157,7 +157,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/negril.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/negril.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>
@@ -176,7 +176,7 @@
     </div>
     <div class="lg:w-1/3 lg:flex lg:justify-end mt-4">
       <div class="lg:w-full relative">
-        <img src="<?php echo THEME_IMAGE_VACATIONDEALS . '/adults/aruba.jpg' ?>" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
+        <img src="https://trip-support.s3.amazonaws.com/images/vacations/adult-resorts/aruba.jpg" alt="Dominican Republi" class="relative rounded-lg mx-auto shadow-lg object-cover">
       </div>
     </div>
   </div>

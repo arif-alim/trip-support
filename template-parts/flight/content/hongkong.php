@@ -1,19 +1,18 @@
-
 <div class="pb-4 lg:pb-8 space-y-3">
   <div class="w-full">
-    <h1 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl"> 
+    <h1 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl">
       <span class="block xl:inline">Hong Kong International Airport (HKG)</span>
     </h1>
   </div>
   <p class="prose text-justify max-w-7xl">
-    Hong Kong International airport is Hong Kong's main airport, built on reclaimed land on the island of Chek Lap Kok, Hong Kong. The airport is also referred to as Chek Lap Kok International Airport. It has been commercially operating since 1988 and is one of the largest trans-shipment centers, passenger hub and Hong Kong’s gateway to the world. The Hong Kong International airport is considered to be one of the busiest passenger airports and it has one of the largest passenger terminals. It is the primary hub for Cathay Pacific, the national carrier of Hong Kong, Greater Bay airlines, Hong Kong airlines, HK Express  and Air Hong Kong. It is also a focus city  for China, Singapore and Ethiopian Airlines, as these all use Hong Kong as a stopover point for their flights.
+    Hong Kong International airport is Hong Kong's main airport, built on reclaimed land on the island of Chek Lap Kok, Hong Kong. The airport is also referred to as Chek Lap Kok International Airport. It has been commercially operating since 1988 and is one of the largest trans-shipment centers, passenger hub and Hong Kong’s gateway to the world. The Hong Kong International airport is considered to be one of the busiest passenger airports and it has one of the largest passenger terminals. It is the primary hub for Cathay Pacific, the national carrier of Hong Kong, Greater Bay airlines, Hong Kong airlines, HK Express and Air Hong Kong. It is also a focus city for China, Singapore and Ethiopian Airlines, as these all use Hong Kong as a stopover point for their flights.
   </p>
 </div>
 <div id="carouselExampleCaptions" class="carousel slide carousel-fade relative" data-bs-ride="carousel">
   <div class="carousel-inner relative w-full overflow-hidden rounded-lg ">
     <div class="carousel-item active relative float-left w-full">
       <video class="w-full" autoplay loop muted>
-        <source src="https://tripsupport.s3.ca-central-1.amazonaws.com/videos/hong_kong.mp4" type="video/mp4" />
+        <source src="https://trip-support.s3.amazonaws.com/videos/flights/hong_kong.mp4" type="video/mp4" />
       </video>
     </div>
   </div>
@@ -21,7 +20,7 @@
 
 <div class="flex-wrap space-y-3 mt-8 lg:mt-12 ">
   <div class="w-full">
-    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl"> 
+    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl">
       <span class="block xl:inline">Find The Best Deals</span>
     </h2>
   </div>
@@ -33,7 +32,7 @@
 </div>
 <div class="flex-wrap space-y-3 my-6 ">
   <div class="w-full">
-    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl"> 
+    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl">
       <span class="block xl:inline">Hong Kong Travel Guide</span>
     </h2>
   </div>
@@ -43,4 +42,3 @@
     </p>
   </div>
 </div>
-

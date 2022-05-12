@@ -1,7 +1,6 @@
-
 <div class="pb-4 lg:pb-8 space-y-3">
   <div class="w-full">
-    <h1 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl"> 
+    <h1 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl">
       <span class="block xl:inline">Los Angeles International Airport (LAX)</span>
     </h1>
   </div>
@@ -13,7 +12,7 @@
   <div class="carousel-inner relative w-full overflow-hidden rounded-lg ">
     <div class="carousel-item active relative float-left w-full">
       <video class="w-full" autoplay loop muted>
-        <source src="https://tripsupport.s3.ca-central-1.amazonaws.com/videos/california.mp4" type="video/mp4" />
+        <source src="https://trip-support.s3.amazonaws.com/videos/flights/california.mp4" type="video/mp4" />
       </video>
     </div>
   </div>
@@ -21,7 +20,7 @@
 
 <div class="flex-wrap space-y-3 mt-8 lg:mt-12 ">
   <div class="w-full">
-    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl"> 
+    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl">
       <span class="block xl:inline">Find The Best Deals</span>
     </h2>
   </div>
@@ -33,7 +32,7 @@
 </div>
 <div class="flex-wrap space-y-3 my-6 ">
   <div class="w-full">
-    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl"> 
+    <h2 class="text-xl tracking-tight font-extrabold text-slate-900 sm:text-2xl md:text-3xl">
       <span class="block xl:inline">Los Angeles Travel Guide</span>
     </h2>
   </div>
@@ -43,5 +42,3 @@
     </p>
   </div>
 </div>
-
-

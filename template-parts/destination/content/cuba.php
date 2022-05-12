@@ -20,13 +20,13 @@
       </div>
       <div class="carousel-inner relative w-full overflow-hidden rounded-lg ">
         <div class="carousel-item active float-left w-full">
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/cuba/havana-2.jpg' ?>" class="block w-full object-cover object-center" alt="Havana, Cuba 1" />
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/cuba/havana-2.jpg" class="block w-full object-cover object-center" alt="Havana, Cuba 1" />
         </div>
         <div class="carousel-item float-left w-full">
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/cuba/havana-1.jpg' ?>" class="block w-full object-cover object-center" alt="Havana, Cuba 2" />
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/cuba/havana-1.jpg" class="block w-full object-cover object-center" alt="Havana, Cuba 2" />
         </div>
         <div class="carousel-item float-left w-full">
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/cuba/havana-3.jpg' ?>" class="block w-full object-cover object-center" alt="Havana, Cuba 3" />
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/cuba/havana-3.jpg" class="block w-full object-cover object-center" alt="Havana, Cuba 3" />
         </div>
       </div>
       <button class="carousel-control-prev absolute top-0 bottom-0 flex items-center justify-center p-0 text-center border-0 hover:outline-none hover:no-underline focus:outline-none focus:no-underline left-0" type="button" data-bs-target="#carouselExampleCrossfade" data-bs-slide="prev">
@@ -84,7 +84,7 @@
           </p>
         </div>
         <div>
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/cuba/cuba-scuba-diving.jpg' ?>" alt="woman snorkelling in cayo coco" class="rounded-lg">
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/cuba/cuba-scuba-diving.jpg" alt="woman snorkelling in cayo coco" class="rounded-lg">
         </div>
       </div>
     </div>
@@ -117,7 +117,7 @@
           </p>
         </div>
         <div>
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/cuba/cuba-waterfalls.jpg' ?>" alt="bordeaux, Paris" class="rounded-lg">
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/cuba/cuba-waterfalls.jpg" alt="Cuba Waterfalls" class="rounded-lg">
         </div>
       </div>
     </div>
@@ -150,7 +150,7 @@
           </p>
         </div>
         <div>
-          <img src="<?php echo THEME_IMAGE_DESTINATIONDEALS . '/cuba/cuba-princesa.jpg' ?>" alt="bordeaux, Paris" class="rounded-lg">
+          <img src="https://trip-support.s3.amazonaws.com/images/destinations/pages/cuba/cuba-princesa.jpg" alt="Cuba Princesa" class="rounded-lg">
         </div>
       </div>
     </div>

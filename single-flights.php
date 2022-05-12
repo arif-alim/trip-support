@@ -7,7 +7,7 @@
       <?php if (!empty($banner[0]['banner_image'])) { ?>
         <img class="w-full h-full object-cover" src="<?php echo $banner[0]['banner_image'] ?>" alt="vacation deals">
       <?php } else { ?>
-        <img class="w-full h-full object-cover" src="<?php echo THEME_IMAGE_HERO . '/spring-break.jpg' ?>" alt="vacation deals">
+        <img class="w-full h-full object-cover" src="https://trip-support.s3.amazonaws.com/images/hero/spring-break.jpg" alt="vacation deals">
       <?php } ?>
 
       <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-r from-blue-100 to-blue-200 mix-blend-multiply"></div>
@@ -34,7 +34,7 @@
       <?php if (!empty($banner[0]['banner_image'])) { ?>
         <img class="w-full h-full object-cover" src="<?php echo $banner[0]['banner_image'] ?>" alt="vacation deals">
       <?php } else { ?>
-        <img class="w-full h-full object-cover" src="<?php echo THEME_IMAGE_HERO . '/spring-break.jpg' ?>" alt="vacation deals">
+        <img class="w-full h-full object-cover" src="https://trip-support.s3.amazonaws.com/images/hero/spring-break.jpg" alt="vacation deals">
       <?php } ?>
 
       <div aria-hidden="true" class="absolute inset-0 bg-gradient-to-r from-blue-100 to-blue-200 mix-blend-multiply"></div>
