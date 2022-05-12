@@ -1,10 +1,11 @@
 <?php
 $adult_only_resorts = array(
   array(
-    "Adults Only Resorts Question #3" => "Adults Only Resorts Answer #3",
-    "Adults Only Resorts Question #4" => "Adults Only Resorts Answer #4",
-    "Adults Only Resorts Question #5" => "Adults Only Resorts Answer #5",
-    "Adults Only Resorts Question #6" => "Adults Only Resorts Answer #6",
+    "What are the top Adults-Only All-Inclusive Resorts?" => "Secrets Wild Orchid Montego Bay, Jamaica, Excellence Playa Mujeres Cancun, Mexico, Excellence Punta Cana, Dominican Republic, and Warwick Paradise Island - Nassau, The Bahamas are some of the top Adults-only all-inclusive resorts.",
+    "Which is the cheapest place to book an Adults-Only All-Inclusive resort?" => "<b>TripSupport.ca</b> is the cheapest place to book you an adults-only all-inclusive resort. ",
+    "How do I get the best deal on an Adults-Only resort?" => "By picking the right time and booking your trip in advance, you can get the best deal on an adults-only resort.",
+    "Can I book my adults-only vacation and pay later?" => "Yes, with our <b>‘Book Now Pay Later’</b> option, you can book your adults-only vacation.",
+    "Where are the Adults-Only 5-star all-inclusive resorts?" => "You can find these resorts in almost all of the Caribbean islands. ",
   ),
 );
 

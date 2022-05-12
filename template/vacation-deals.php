@@ -58,6 +58,9 @@
         case 'best-family-resorts':
           get_template_part('/template-parts/vacation/faqs/generic');
           break;
+        case 'adults-only-resorts':
+          get_template_part('/template-parts/vacation/faqs/generic');
+          break;
         case 'luxury-vacations':
           get_template_part('/template-parts/vacation/faqs/generic');
           break;
